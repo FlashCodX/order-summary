@@ -36,7 +36,7 @@ function App() {
             <div className={planContainer}>
               <img src={songIcon} className={song} alt="song" />
               <div className={planInfo}>
-                <h3>Annual Plan</h3>
+                <h1>Annual Plan</h1>
                 <p>$59.99/year</p>
               </div>
               <a className={changeOption} href="/">
